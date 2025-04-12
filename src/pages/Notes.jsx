@@ -26,7 +26,7 @@ function Notes() {
   return (
   <>
     <div>
-      <h1>✍️My Todo List</h1>
+      <h1>✍️僕のメモ帳</h1>
     </div>
     <NoteForm setNotes={setNotes}/>
     <div>
