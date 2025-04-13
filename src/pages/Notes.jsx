@@ -25,7 +25,7 @@ function Notes() {
   };
   return (
   <>
-    <div>
+    <div className='container'>
       <h1 className='kiwi-maru-regular'>📝 僕のメモ用紙</h1>
     </div>
     <NoteForm setNotes={setNotes}/>

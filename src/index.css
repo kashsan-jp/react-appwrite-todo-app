@@ -261,7 +261,7 @@ input[type="submit"], button{
   .container{
     max-width: 90%;
     margin: auto;
-    padding: 2em;
+    padding: 4rem;
   }
 
 .header{
@@ -349,6 +349,9 @@ input{
       margin: auto;
       padding: 1em;
     }
+    .header{
+      justify-content: center;
+  }
 }
 
 
@@ -357,5 +360,17 @@ input{
 @media screen and (max-width:600px){
   #app{
     padding: 0 1em;
+  }
+  .header > .links--wrapper{
+    /* display: none; */
+    gap: 1em;
+    text-decoration-line: none;
+    align-items: center;
+    font-size:1rem
+  }
+  .container{
+    max-width: 80%;
+    margin: auto;
+    padding: 2rem;
   }
 }
