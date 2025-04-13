@@ -2,6 +2,7 @@
 
 const Profile = () => {
   return (
+    <>
     <div className="container">
       <h1>Kashsanのプロフィール</h1>
       <p>2017年にSwiftで開発を始める。
@@ -13,6 +14,12 @@ const Profile = () => {
       個人開発に集中してサービス作りを
       続けています。</p>
     </div>
+    <div className="container">
+      <h1>本アプリの技術選定</h1>
+      <p>フロントエンド: React-Vite</p>
+      <p>バックエンド: AppWrite</p>
+    </div>
+    </>
   )
 }
 
