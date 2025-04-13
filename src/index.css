@@ -74,9 +74,9 @@
     width: 100%;
   }
 
-  div{
+  /* div{
     overflow-y: auto; 
-  }
+  } */
 
 #app{
   height: 100%;
