@@ -328,11 +328,14 @@ input{
 
 @media(max-width:800px) {
   .container{
-      max-width: 95%;
+      max-width: 90%;
       margin: auto;
       padding: 1em;
     }
-    .header{
+  .container h1 {
+      font-size: 1.5rem
+  }
+  .header{
       justify-content: center;
   }
 }
