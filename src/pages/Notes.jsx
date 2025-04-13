@@ -28,8 +28,10 @@ function Notes() {
     <div className='container'>
       <h1 className='kiwi-maru-regular'>📝 僕のメモ用紙</h1>
     </div>
+    <div className='form'>
     <NoteForm setNotes={setNotes}/>
-    <div>
+    </div>
+    <div className='memo'>
       {notes.map((note) => (
         <Note key={note.$id} setNotes={setNotes} noteData={note}/>
       ))}

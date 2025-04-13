@@ -316,6 +316,23 @@ input{
     margin: 1em 0;
 }
 
+.container{
+  max-width: 90%;
+  margin-top: 15px;
+  padding: 0.5em;
+  border-Radius: 10px;
+  border: 1px;
+}
+.container h1 {
+  font-size: 1.5rem
+}
+.form {
+padding: 1rem;
+}
+.memo {
+padding: 1rem;
+}
+
 @media(max-width:800px) {
   #header-logo{
       display: none;
@@ -334,6 +351,12 @@ input{
     }
   .container h1 {
       font-size: 1.5rem
+  }
+  .form {
+    padding: 1rem;
+  }
+  .memo {
+    padding: 1rem;
   }
   .header{
       justify-content: center;
