@@ -90,6 +90,16 @@
   h2 {
     text-align: center;
     font-size: 1.3rem;
+    border-bottom: 1px solid gray;
+    width:70%;
+    margin:auto;
+  }
+   h3 {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 1.2rem;
+    color: green; 
   }
 
   /* div{
@@ -432,8 +442,9 @@ margin: auto;
     font-size: 1.0rem;
   }
   h3 {
-    margin-top: 10px;
-    margin-left: 40px;
+    text-align: left; 
+      /* margin-top: 10px;
+      margin-left: 40px; */
     font-size: 0.8rem;
     color: green; 
   }
