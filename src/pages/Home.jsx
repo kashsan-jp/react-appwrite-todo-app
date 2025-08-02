@@ -9,7 +9,7 @@ const Home = () => {
     <div className="container">
       <h1 className='kiwi-maru-regular'>Kashsan&apos;s Blog</h1>
       <p>
-        Webエンジニアになるには時間が相当がかかります。
+        Webエンジニアになるには時間が相当がかかり、
         それは「勉強することが多いから」とだと言われています。
         しかしそれは果たして真実でしょうか？ <br/><br/>
 
