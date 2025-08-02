@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "prepare": "npx lint-staged"
+    "prepare": "husky install"
   },
   "dependencies": {
     "appwrite": "^17.0.1",
