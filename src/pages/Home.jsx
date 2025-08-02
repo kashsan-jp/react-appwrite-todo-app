@@ -7,7 +7,7 @@ const Home = () => {
   return (
   
     <div className="container">
-      <h1>Kashsan&apos;s Blog</h1>
+      <h1 className='kiwi-maru-regular'>Kashsan&apos;s Blog</h1>
       <p>
         Webエンジニアになるには時間が相当がかかります。
         それは「勉強することが多いから」とだと言われています。
