@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 import Notes from "./pages/Notes"
-import LoginRegister from "./pages/LoginRegister"
+// import LoginRegister from "./pages/LoginRegister"
 import PrivateRoutes from './utils/PrivateRoutes'
 import {AuthProvider} from './utils/AuthContext'
 import Header from './components/Header'
@@ -12,7 +12,6 @@ import Register from './pages/Register'
  
 
 function App() {
-  
 
   return (
     // <div id="app">
