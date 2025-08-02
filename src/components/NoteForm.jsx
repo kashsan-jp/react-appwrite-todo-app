@@ -25,7 +25,7 @@ function NoteForm({setNotes}) {
     <input
         type='text'
         name='body'
-        placeholder="😆 What's on the agenda?"
+        placeholder="😆メッセージ"
     />
    </form>
   )
