@@ -30,10 +30,10 @@ function Notes() {
     </div>
     <div className="container">
       <h2>本アプリの技術選定</h2>
-      <p>
+      <h3>
       フロントエンド: React-Vite <br></br>
       バックエンド: AppWrite(Baas)
-      </p>
+      </h3>
     </div>
     <div className='form'>
     <NoteForm setNotes={setNotes}/>
