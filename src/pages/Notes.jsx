@@ -38,6 +38,7 @@ function Notes() {
     <div className='form'>
     <NoteForm setNotes={setNotes}/>
     </div>
+    <h2>Kashsan技術ブログ</h2>
     <div className='memo'>
       {notes.map((note) => (
         <Note key={note.$id} setNotes={setNotes} noteData={note}/>

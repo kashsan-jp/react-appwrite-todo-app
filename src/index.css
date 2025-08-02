@@ -85,7 +85,7 @@
   }
   h1 {
     text-align: center;
-    font-weight: 900;
+    font-weight: bold;
   }
   h2 {
     text-align: center;
@@ -421,6 +421,7 @@ padding: 1rem;
   p {
     border-width: 0.1rem;
     width: 100%;
+    font-size: 0.9rem;
   }
   h2 {
     text-align: center;
