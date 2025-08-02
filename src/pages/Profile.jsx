@@ -17,7 +17,7 @@ const Profile = () => {
     <div className="container">
       <h1>本アプリの技術選定</h1>
       <p>フロントエンド: React-Vite</p>
-      <p>バックエンド: AppWrite</p>
+      <p>バックエンド: AppWrite(Baas)</p>
     </div>
     </>
   )

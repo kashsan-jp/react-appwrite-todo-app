@@ -26,7 +26,7 @@ function Notes() {
   return (
   <>
     <div className='container'>
-      <h1 className='kiwi-maru-regular'>📝 僕のメモ用紙</h1>
+      <h1 className='kiwi-maru-regular'>📝 Kashsanの技術ノート</h1>
     </div>
     <div className='form'>
     <NoteForm setNotes={setNotes}/>
