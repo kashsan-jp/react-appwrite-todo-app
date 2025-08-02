@@ -28,6 +28,13 @@ function Notes() {
     <div className='container'>
       <h1 className='kiwi-maru-regular'>📝 Kashsanの技術ノート</h1>
     </div>
+    <div className="container">
+      <h1>本アプリの技術選定</h1>
+      <p>
+      フロントエンド: React-Vite <br></br>
+      バックエンド: AppWrite(Baas)
+      </p>
+    </div>
     <div className='form'>
     <NoteForm setNotes={setNotes}/>
     </div>

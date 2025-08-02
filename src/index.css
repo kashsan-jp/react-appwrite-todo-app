@@ -76,10 +76,15 @@
 
   p {
     border: solid;
+    margin: auto;
     padding: 1rem;
     border-radius: 10px;
-    border-color: orange;
+    border-color: green;
     margin-top: 5px;
+    width: 100%;
+  }
+  h1 {
+    text-align: center;
   }
 
   /* div{
@@ -389,6 +394,7 @@ padding: 1rem;
     min-height: 100vh;
     padding: 1.5rem
   }
+  
   #app{
     padding: 0 1em;
   }
@@ -400,7 +406,7 @@ padding: 1rem;
     font-size:1rem
   }
   .container{
-    max-width: %;
+    max-width: 90%;
     margin: auto;
     padding: 1rem;
   }
