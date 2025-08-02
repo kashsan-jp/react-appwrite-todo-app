@@ -415,6 +415,9 @@ padding: 1rem;
   }
   p {
     border-width: 0.1rem;
-    width: 90%;
+    width: 100%;
+  }
+  h2 {
+    text-align: center;
   }
 }
