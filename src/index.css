@@ -413,4 +413,8 @@ padding: 1rem;
   .container h1{
     font-size: 1.3rem
   }
+  p {
+    border-width: 0.1rem;
+    width: 90%;
+  }
 }
