@@ -443,10 +443,9 @@ margin: auto;
   }
   h3 {
     text-align: left; 
-      /* margin-top: 10px;
-      margin-left: 40px; */
+    width: 100%;
     font-size: 0.9rem;
-    color: green; 
+    color: green;
   }
   .form {
     padding: 1rem;
