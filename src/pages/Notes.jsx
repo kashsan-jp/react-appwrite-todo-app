@@ -26,7 +26,7 @@ function Notes() {
   return (
   <>
     <div className='container'>
-      <h1>📝 Kashsanの技術ノート</h1>
+      <h1>Kashsanの技術ノート</h1>
     </div>
     <div className="container">
       <h2>本アプリの技術選定</h2>
